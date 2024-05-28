@@ -1,4 +1,5 @@
-![image](https://github.com/Ankit-KY/AtliQ_Grands_Hospitality_Analysis/assets/148628279/c5e6e815-4608-43b3-a212-5688e709a0ab)
+![image](https://github.com/Ankit-KY/AtliQ_Grands_Hospitality_Analysis/assets/148628279/9f77dde0-452a-4051-9d29-9a6837ad3898)
+
 
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiOWJlZGZiY2ItMmIzYS00ZTU2LTk5ZTMtZTZjZDYwOGM4MDViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
