@@ -93,3 +93,7 @@ Following inferences can be drawn from the dashboard;
 - Given the overall occupancy rate is 57.59%, the management team can dynamically adjust room prices in properties with low occupancy rates.
 - Makeyourtrip is the second largest source of bookings (9K), but the cancellation rate is 25.03% across all cities and properties. The management team should address this issue, as it affects hotel rankings in search results, leading to decreased revenue and fewer bookings.
 - The Average Daily Rate (ADR) remains consistent on weekdays and weekends, indicating an opportunity for dynamic pricing across all properties and platforms to generate additional revenue.
+
+
+#### Do you have  any questions ? Feel free to ask anything….
+### Connect with me on [linkedin.](https://www.linkedin.com/in/ankit-kumar-yadav3027)
