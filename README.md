@@ -16,7 +16,7 @@ Atliq Grands has experienced declining market share and revenue due to competiti
 - Step 5 : In the report view, under the view tab, theme was selected.
 - Step 6 : Since the data contains various ratings, thus in order to represent ratings, a new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 7 : Visual filters (Slicers) were added for four fields named "Property", "City", "Status", "Booking Platform" & "Months".
-- Step 8 : Three card visuals were added to the canvas, one representing tottal revenue in millions, second representing occupancy% & last one  representing average rating.
+- Step 8 : Three card visuals were added to the canvas, one representing total revenue in millions, second representing occupancy% & last one  representing average rating.
            Using visual level filter from the filters pane, basic filtering was used.
 
 Snap of KPI cards ,
